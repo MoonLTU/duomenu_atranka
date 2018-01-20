@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "duomenuatranka", "duomenuatranka\duomenuatranka.vcxproj", "{D70D8CE0-4048-4119-AB12-6F7978823D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70D8CE0-4048-4119-AB12-6F7978823D4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D70D8CE0-4048-4119-AB12-6F7978823D4B}.Debug|Win32.Build.0 = Debug|Win32
+		{D70D8CE0-4048-4119-AB12-6F7978823D4B}.Release|Win32.ActiveCfg = Release|Win32
+		{D70D8CE0-4048-4119-AB12-6F7978823D4B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
